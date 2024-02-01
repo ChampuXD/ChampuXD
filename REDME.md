@@ -1,5 +1,5 @@
  ㅤ ㅤ ㅤㅤ 「 🖤ꜱнͥινͣαͫиѕнυ🖤 」
-  [![GIF](https://github.com/ChampuXD/ChampuMusic/blob/main/TheChampu.gif)](https://github.com/ChampuXD)
+  [![GIF](https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif)](https://github.com/ChampuXD)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")
                                                           
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
@@ -25,20 +25,20 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=TheChampu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=TheChampu's+GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=ChampuXD&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=ChampuXD's+GitHub+Stats"
     />
 <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=TheChampu&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=ChampuXD&theme=tokyonight"
     />
 </p>
 
 <h3>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TheChampu/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/ChampuXD/count.svg" />
 
-<a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
+<a href="https://github.com/ChampuXD"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
@@ -58,7 +58,7 @@
  
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
  
-[![MUSIC](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/Cruella_Robot)
+[![MUSIC](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/TheChampuBot)
 [![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/TheKittyXD_Bot)
 
 <h1>  ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
